@@ -1,4 +1,4 @@
-#Kata FizzBuzz
+# Kata FizzBuzz
 
 Esta es una implementación de la famosa kata FizzBuzz, diseñada para practicar la resolución de problemas simples utilizando programación. La kata implica imprimir una serie de números, pero con algunas condiciones especiales:
 
